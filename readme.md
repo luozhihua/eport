@@ -12,7 +12,7 @@ Just run this commands to install eport for your project.
 
 # Usage
 ```javascript
-  var eport = require(eport);
+  var eport = require('eport');
   eport([host], function(error, port) {
     // do something with the port.
   });
@@ -20,8 +20,6 @@ Just run this commands to install eport for your project.
 
 # Method
 > require('eport')([host], callback);
-
-## param
 
 - [host] <string> A hostname or ip address that it will listen to.
 - callback(error, port) <string> A hostname or ip address that it will listen to.
