@@ -1,4 +1,4 @@
-eport [![Build Status](https://secure.travis-ci.org/luozhihua/eport.png)](http://travis-ci.org/luozhihua/eport)
+eport [![Build Status](https://travis-ci.org/luozhihua/eport.svg?branch=master)](http://travis-ci.org/luozhihua/eport)
 ========
 
 Find a free port

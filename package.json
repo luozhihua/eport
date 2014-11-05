@@ -1,7 +1,7 @@
 {
   "name": "eport",
   "description": "Get a free port.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/luozhihua/eport",
   "author": "Colin <mail@luozhihua.com>",
   "main": "lib/eport",
@@ -28,8 +28,10 @@
     "free",
     "port",
     "random",
-    "port",
-    "port"
+    "free-port",
+    "freeport",
+    "randomport",
+    "random-port"
   ],
   "license": "ISC"
 }
